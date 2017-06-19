@@ -1,0 +1,1 @@
+<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3439.431964123752!2d110.20012062628597!3d-7.6775335884101885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0:0x796c5fd8383d9b2c!2sMTSN+Sidoharjo!5e1!3m2!1sid!2sid!4v1415969173555" width="600" height="450" frameborder="0"></iframe></p>
